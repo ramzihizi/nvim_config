@@ -9,7 +9,9 @@ A user configuration template for [AstroNvim](https://github.com/AstroNvim/Astro
 ```shell
 mv ~/.config/nvim ~/.config/nvim.bak
 mv ~/.local/share/nvim ~/.local/share/nvim.bak
+mv ~/.cache/nvim ~/.cache/nvim.bak
 ```
+
 
 #### Clone AstroNvim
 
