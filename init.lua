@@ -19,7 +19,6 @@ return {
 
   -- Set colorscheme to use
   --colorscheme = "astrodark",
-  --colorscheme = "gruvbox",
   --colorscheme = "catppuccin",
   --colorscheme = "vscode-nvim",
   --colorscheme = "nightfox-nvim",
